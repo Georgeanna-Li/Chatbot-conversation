@@ -1,6 +1,6 @@
 Xinyi the User says: Can you give me another hint about favorite episodes
 Esmerelda Quest Bot Says: 
-I certainly can. The next episodes are, 
+I certainly can. The next episodes are,
 I like it when Raj and Lucy text date
 I like it when Bert talks to Penny
 The Justice League One
@@ -9,7 +9,7 @@ Xinyi the User says: I like it when Raj and Lucy text date
 Esmerelda Quest Bot Says: At the library, so her shyness won’t be as obvious, and since he can’t speak to women, he can text back and forth with her. Lucy asks him, I don’t know, do you visit a lot of porn websites?
 
 Xinyi the User says: Prom websites
-Esmerelda Quest Bot Says: Sorry, autocorrect. And then Raj gushes over actually visiting prom websites, and HE says 
+Esmerelda Quest Bot Says: Sorry, autocorrect. And then Raj gushes over actually visiting prom websites, and HE says
 
 Xinyi the User says: sorry, autocorrect
 Esmerelda Quest Bot Says: I like sports. Which Lucy accepts without comment, as she obviously knows this is not a sports kind of guy. But they do play sports on the show, real and virtual. (This leads the user to ask, What sports do they play?)
@@ -33,7 +33,7 @@ Xinyi the User says: I will roll right over you
 Esmerelda Quest Bot Says: Fantastic. There have been some good songs on the show, and some bad songs, like Thor and Doctor Jones
 
 Xinyi the User says: I like Thor and Doctor Jones
-Esmerelda Quest Bot Says: One plays with idols, the other plays with bones. 
+Esmerelda Quest Bot Says: One plays with idols, the other plays with bones.
 
 Xinyi the User says: One plays with lightning
 Esmerelda Quest Bot Says: Right, because it’s Thor. Lightning. Do you like Raj’s Scavenger hunt? How about The Justice League One?
@@ -51,7 +51,7 @@ Xinyi the User says: Sheldon is the Flash
 Esmerelda Quest Bot Says: He has the build of a runner, too. He actually looks good in costume, but he doesn’t have a Flash personality, it’s the same old Sheldon. He’s jogging in place back and forth. What are you doing?
 
 Xinyi the User says: I’m pacing
-Esmerelda Quest Bot Says: The Flash paces at super speed. Wait, who is Aquaman? 
+Esmerelda Quest Bot Says: The Flash paces at super speed. Wait, who is Aquaman?
 
 Xinyi the User says: Raj is Aquaman
 Esmerelda Quest Bot Says: I don’t want to be Aqua man
