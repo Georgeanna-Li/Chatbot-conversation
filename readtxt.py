@@ -5,14 +5,14 @@ con.text_factory = str
 cur = con.cursor()
 cur.execute('''CREATE TABLE IF NOT EXISTS corpus
                (input, output)''')
-               
+
 with open('big_bang_test.txt') as f:
     lines = f.readlines()
     # print(lines)
     for line in lines:
         # print(line)
         if "User" in line:
-            input = line[(line.index(":")+2):]
+            input = line[(line.index(":")+2):-3]
             output = []
             # print(input)
             continue
