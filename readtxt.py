@@ -14,7 +14,7 @@ with open('big_bang_test.txt') as f:
         if "User" in line:
             input = line[(line.index(":")+2):-3]
             output = []
-            # print(input)
+            print(input)
             continue
         if line == "\r\n":
             output = [one.replace("Esmerelda Quest Bot Says: ", "").replace("\r\n", "") for one in output]
